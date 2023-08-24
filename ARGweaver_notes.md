@@ -30,7 +30,7 @@ SUMMARY: WE CURRENTLY HAVE 3903 INDIVIDUALS SPANNING 87 POPULATIONS AND WE HAVE 
 
 # 1. Preparing the input file for ArgWeaver
 
-The ARGWeaver program can only handle upto 100 individuals at a time. So I decided to subset the main vcf file to only get few individuals across all species/hybrids we currently have in the dataset. [Here] (https://docs.google.com/spreadsheets/d/1BoQ_zMOSQMFbnDQyQUjsOTpUrj0nobVzOOEQ_V504Ak/edit#gid=702836423) are the final list of individuals and populations I selected to include in this analyses.
+The ARGWeaver program can only handle upto 100 individuals at a time. So I decided to subset the main vcf file to only get few individuals across all species/hybrids we currently have in the dataset. **[Here] (https://docs.google.com/spreadsheets/d/1BoQ_zMOSQMFbnDQyQUjsOTpUrj0nobVzOOEQ_V504Ak/edit#gid=702836423)** are the final list of individuals and populations I selected to include in this analyses.
 
 I used vcftools to subset individuals for the final file.
 
